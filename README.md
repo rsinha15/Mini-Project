@@ -1,1 +1,1 @@
-# Mini-Project
+# Classification of images using ML
